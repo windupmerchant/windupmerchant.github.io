@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Windup Mercantile
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Travel blog.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/4430159a-24ce-4291-8254-173eb8dbfebb/d1c6xne-35908832-bbbb-4c1e-9171-5f8e5c3c815f.jpg/v1/fill/w_899,h_889,q_75,strp/star_trek_insignia_by_balsavor.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvaS80NDMwMTU5YS0yNGNlLTQyOTEtODI1NC0xNzNlYjhkYmZlYmIvZDFjNnhuZS0zNTkwODgzMi1iYmJiLTRjMWUtOTE3MS01ZjhlNWMzYzgxNWYuanBnIiwid2lkdGgiOiI8PTg5OSIsImhlaWdodCI6Ijw9ODg5In1dXX0.buN1vAiTczI1kzotzToHEJ3kparbjsTOwWjp0V1Lq7c
 
 #
 # Flags below are optional
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
