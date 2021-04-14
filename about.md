@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We're crossing the continent in a 1990 Fleetwood Tioga Arrow built onto a Ford E350 chassis with an 385 "Lima" V8 gasoline engine and a transmission rebuilt at 78,000 miles.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+We've got 200 cans of beans, and we're trying to catch a plane in Philly by the end of April. You can check out [the route we're nominally taking]().
