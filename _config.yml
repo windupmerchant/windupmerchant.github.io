@@ -9,7 +9,7 @@ name: Windup Mercantile
 description: Travel blog.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/4430159a-24ce-4291-8254-173eb8dbfebb/d1c6xne-35908832-bbbb-4c1e-9171-5f8e5c3c815f.jpg/v1/fill/w_899,h_889,q_75,strp/star_trek_insignia_by_balsavor.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvaS80NDMwMTU5YS0yNGNlLTQyOTEtODI1NC0xNzNlYjhkYmZlYmIvZDFjNnhuZS0zNTkwODgzMi1iYmJiLTRjMWUtOTE3MS01ZjhlNWMzYzgxNWYuanBnIiwid2lkdGgiOiI8PTg5OSIsImhlaWdodCI6Ijw9ODg5In1dXX0.buN1vAiTczI1kzotzToHEJ3kparbjsTOwWjp0V1Lq7c
+avatar: https://lh3.googleusercontent.com/KNSe6eNGqKxIGENQJQbcSq_ZikoQnGneqtove9PmuZ4ORngfvmXA713PuyKoIY1Q5Bj_z2VtKxdQ6-nWYRxwjE4PykrFaiC49Aw2qWL73F6zhboBZEVsOqqddcY2rm9WXsmybU0L2djz9KZlRAPsSMxq3ojVX4m5rlYXdM1SfB6y0Yr7yZF0zsLBEi5IIrh5525q2Q5J8UD3zRFPFiy8UuoCkD2LhY8BBLAgPhvc_17Cr4ndWcSDpdwVkbyqj0eV_KR7rhMES1MVAqB0r8dIEiMCsWwq4U3yCc7F5ZsveO6RcKpkQcstq0mBiMN2m-Z8lvNeL4ShdOtDRtsGnI5zQOgrJpgxoDJ3-L2hLmwtI7QIJcWUysJB4Jw-JdyH6lHxhq2VkGsSWuhvuhJUv2fPCFLP0eQqL0vj8L0HvViYDxcvTUEB4-44NPqsLJuuRcO2480adUpJ6UOOCuTD3N1QSCFkd54EqUQl8X9Qm5OodqS_wF2ob1FjTC_grNhB041i7w3z7TgbIlxB8U3EerB_VLEf4jtByDiCqEtoUh-0zHuXb0BdEjJ4HUju3iuL2Vpt2vXTPG8KcihCC7Cja4eE6E402L6PUpDGxkIcROkUhAM1WTBDfv8BtGh2zAdcjuR2t5o3oH5pQcK8_G9MtM9W6BVKVe8YsdYDOlpPp-P7Wevo3HC7votZ7RHnLN2PQKH6_CwjgdHggykBbVKFHBHMdIZA=w894-h670-no
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/4430159a-24ce-
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: windupdev@gmail.com
   facebook:
   flickr:
   github: barryclark/jekyll-now
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: 
+  rss: foo
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://windupmerch.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
