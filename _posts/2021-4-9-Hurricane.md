@@ -3,7 +3,6 @@ layout: post
 title: Return
 ---
 
-
 Pulling back into La Verkin felt familiar. Actually, the whole countryside of Utah now feels familiar. At least, the portion of it through which Interstate 70 cuts, with its endless hills and impassable buttes. All the way, really impressive landscapes that we're not quite through yet as we leave the St. George / La Verkin / Hurricane area.
 
 Woke up in Denver, in Max & Brittany's guest bed, at around 5:30am. Couldn't help it. Nervous energy? We'd not really exhausted ourselves at the train musuem, the day before, so perhaps heading to bed at 9:00pm wasn't really needed. It felt needed, but there I was feeling restless in the early morning.
