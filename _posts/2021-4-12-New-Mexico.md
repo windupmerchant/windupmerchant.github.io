@@ -13,6 +13,7 @@ And we're bound to hit a few such rickety roads. The road from Needles to the Gr
 We are leaving Santa Fe, and Sam has just shut off the engine overdrive, a move typical for climbing steep grades.
 
 "We have a headwind," he explains.
+
 ---
 
 Before pulling into our uneven gravel site at *Rancheros De Santa Fe*, we'd gorged ourselves on some Santa Fe-vorites at the famous Plaza Cafe, right there on eponymous square in the spiritual center of town. Sam had himself a Hatch Green Chile burger, and I had some blue corn tortilla enchiladas. We ordered a chicken-stuffed sopapilla--sauced "Christmas," half in red chile salsa, half of green--but were too stuffed ourselves to touch it--and thought it'd make a premium breakfast.
