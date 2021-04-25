@@ -5,11 +5,11 @@ title: Reaching the Coast
 
 We unscrewed ourselves from the spigot at the side of the barn, unplugged ourselves from their 15 amperes of electrical power. For some reason, all the spigots this side of the Mississippi are old well-style, with a great, red lever one must heave up or down to open the spout and not, as I am used to, a little four-armed knob that one can simply twist.
 
-We had ourselves cold breakfast--mine thoroughly adulterated with nuts, seeds, and berries--said farewell to the myriad chickens clucking around the driveway, and veered Eastward for an hour or two.
+After securing myself a thermos of hot tea, we had ourselves cold breakfast--mine thoroughly adulterated with nuts, seeds, and berries--said farewell to the myriad chickens clucking around the driveway, and veered Eastward for an hour or two.
 
 As we approached the Roanoke Sound, the land north of us became--according to the satelite pictures--a flat, undeveloped riverland. To see it, we pulled into the tiny town of Plymouth, North Carolina. There was a promising "Stella's Diner," on the street immediately adjacent to the river, at the end of the road which abuts the state highway, and we went their directly and found, miraculously, all twenty-two feet of parking we'd need. Perhaps our Japanese travel charm is resposible. Or, perhaps this town has more parking than it needs.
 
-We came in search of river views, yes, but also in search of Apple Pie, a commodity we'd thought a staple until we started to look for it, and found it nowhere. Stella's representative was out of desert. And she was too busy to make a cup of coffee. I didn't stare too long at the customers, but they didn't strike me as too vivacious. This was an odd town; with many stately houses, an overabundant fleet of shiny police cars, and no active commercial, civil, or social activity to speak of on a Friday afternoon outside of one woman asked to make too many sandwiches. No pedestrians, and no vehicle traffic but--unlike Tucumcari, and other too-quiet towns of the West--no rundown buildings, no haunting houses.
+We came in search of river views, yes, but also in search of Apple Pie, a commodity we'd thought a staple until we started to look for it, and found it nowhere. Stella's representative was out of desert. And she was too busy to make a cup of coffee (my thermos' tea was still too hot to drink). I didn't stare too long at the customers, but they didn't strike me as too vivacious. This was an odd town; with many stately houses, an overabundant fleet of shiny police cars, and no active commercial, civil, or social activity to speak of on a Friday afternoon outside of one woman asked to make too many sandwiches. No pedestrians, and no vehicle traffic but--unlike Tucumcari, and other too-quiet towns of the West--no rundown buildings, no haunting houses.
 
 Well, there was one collapsing brick facade beside the historic parklette informing us how Plymouth had been formed by a slaver's carving up of his own plantation into town-shaped lots a hundred years back.
 
@@ -29,7 +29,7 @@ By the time we got to the campground, the breeze was mild, and the ambient tempe
 
 It was like a parking lot made of sand. Locals back their trucks and SUVs right up to the water, on days like this, plunk their poles in the sand, and tailgate by the lapping waves. I felt extremely over-dressed and under-equipped; Sam and I certainly stood out both as pedestrians and non-anglers. Then again, we weren't properly dressed for the beach, either. Having just come from lunch in town, we were in slacks, shoes, and I even had on a button-down shirt. It's hard being a tourist; you do everything wrong when you do everything for the first time.
 
-We met only one angler. A thin, older woman. She wasn't keeping much of what she caught, she said, but just enjoyed fishing.
+We met only one angler. A thin, older woman. She wasn't keeping much of what she caught, she said, but just enjoyed fishing. We stood awhile and watched the waves lap at the shore. It wasn't cold, but I had brought my thermos of hot tea to drink by the sea; no luck, it burnt my tongue.
 
 Looking South, we could see the storm. It seemed a long way off. The distant clouds were a lead grey, their lower contours blurred by rain cascading beneath them. It was not a long way off. Droplets began pelting us as we turned from the shore and trod back up to the campsite. Not long after, our angler friend drove by. She rolled her window down, and apologized.
 
@@ -47,6 +47,6 @@ It was a short drive to the facility at the edge of the campsite. We succeeded w
 
 Back at the site, we got ourselves all squared away. Stabilized the rig with a couple of screw-jacks, closed and latched all windows and vents. The mobile data signal here is better than at any site we've yet stayed due, no doubt, to the efforts of vacation-home owners up the spit. As the wind rocked us with twenty-mile-an-hour gusts (and climbing) I had a chance to video-phone my sisters, and see my niblings' smiling faces. This was a good test for today's planned virtual birthday party for my nephew. It couldn't have gone better.
 
-Still stuffed from the seafood lunch, we opted not to cook dinner. Instead, luxuriating in our opulent data plans, we streamed the first three-quarters of 1975's "The Man Who Would Be King," a tale of two roustabouts trundling through unknown lands in search of dominion. It was less relatable than I thought it might be. I am no Daniel Dravot, Sam no Peachy Carnehan, and we've all this while suffered from a distinct lack of Billy Fish.
+Still stuffed from the seafood lunch, we opted not to cook dinner. It was too late to drink my tea. Instead, luxuriating in our opulent data plans, we streamed the first three-quarters of 1975's "The Man Who Would Be King," a tale of two roustabouts trundling through unknown lands in search of dominion. It was less relatable than I thought it might be. I am no Daniel Dravot, Sam no Peachy Carnehan, and we've all this while suffered from a distinct lack of Billy Fish.
 
-We shut the movie off soon enough, and let the storm's now forty-mile-an-hour gusts rock us to sleep.
+We shut the movie off soon enough, and let the storm's now forty-mile-an-hour gusts rock us to sleep. This morning, as I write this, my tea is now cool enough to drink.
