@@ -28,3 +28,5 @@ After the party we visited a local grocer to pick up vegetables, and some local 
 He told us he was closed. We promised we only wanted to make a simple purchase. Just one piece of fish. Nothing fancy. That flounder looked ideal. He gruffly accepted our money, cursing at the register and curtly shooing away all subsequent customers. We left with our fish. He locked the door.
 
 We fried that flounder with cajun seasonings--one of the party favors my sister Lynne had sent to help us celebrate nephew's birthday--white wine, butter, and lemon. We had sauteed cabbage on the side, and drank some of the rest of the wine. After dinner, we finished watching Sean Connery and Michael Caine lose their fortunes down a ravine (and Connery, his head!), and turned in.
+
+<iframe src="https://open.spotify.com/embed/track/3s4SpgPUXR1mNAwpu8N2GU" width="500" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

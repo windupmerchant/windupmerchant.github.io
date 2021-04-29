@@ -38,3 +38,5 @@ This is not a real town. One can only imagine what bedevilment happens in Pigeon
 After we perused the shops, and bought ourselves some iced coffee drinks from a nice Italian barista, we made our way back to the motorhome and drove through town to the Smoky Mountains National Park HQ for maps and such. There, we also chanced upon a half-mile stroll to a picturesque waterfall. Then, we lit out for our campsite, where we spent a relaxing afternoon in the woods: Sam, in his hammock, me running about with a pamphlet identifying trees (Red Maples) and flowers (Common Violets, Woods Stonecrop, Celandin, and something that had too many petals to be a Bluet, and leaves too thin to be a Wild Geranium).
 
 Dinner was a tomato sauce made from scratch with onions, broccoli, and kidney beans over our chosen starches: pasta for Sam, quinoa for me. After dinner I transformed the dinette into my bed, and read more pages of "A History of the American People."
+
+<iframe src="https://open.spotify.com/embed/track/3H88Mnt8OpEVKqtFK4VvLt" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

@@ -30,3 +30,5 @@ I don't know what its limits are, but I think we'll just have to find out togeth
 "Ships are safe in port," and all, "but that's not what they're made for." I am going to try and wear out all my equipment on this trip. I've spent good money on it, and I never quite seem to recoup my bucks. Seasons change, or plans fall apart, and I've been left with adventure-ware and no adventure. It's sensible to pursue, to the fullest, the opportunities these items permit me.
 
 Opportunities like a dry head, and un-burnt ears.
+
+<iframe src="https://open.spotify.com/embed/track/7oXP56aUNn7ofMyLhvPhEK" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

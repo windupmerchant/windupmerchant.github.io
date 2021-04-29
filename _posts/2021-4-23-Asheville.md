@@ -40,3 +40,5 @@ So if anyone asks you what a dystopian hellscape looks like, tell 'em a Company 
 I don't know how to fit this into the post above, but it's worth mentioning that this had been an all-White town. Slave plantations weren't as profitable in North Carolina as nearer the coast, and so places like these didn't have large Black populations to contend with after the Civil War. They remained White.
 
 From Henry River Mill Village we made it, with daylight to spare, to our HipCamp site on a farm, next to someone's barn. We plugged into their electrical outlets and garden hose (we've got a water filter on our end), had the dregs of a bottle of California red, and set to making a wholesome dinner of quinoa, kale, and readymade curry.
+
+<iframe src="https://open.spotify.com/embed/track/6okgBrpsKHFhmUEN7bHAEr" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

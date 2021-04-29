@@ -50,3 +50,5 @@ Back at the site, we got ourselves all squared away. Stabilized the rig with a c
 Still stuffed from the seafood lunch, we opted not to cook dinner. It was too late to drink my tea. Instead, luxuriating in our opulent data plans, we streamed the first three-quarters of 1975's "The Man Who Would Be King," a tale of two roustabouts trundling through unknown lands in search of dominion. It was less relatable than I thought it might be. I am no Daniel Dravot, Sam no Peachy Carnehan, and we've all this while suffered from a distinct lack of Billy Fish.
 
 We shut the movie off soon enough, and let the storm's now forty-mile-an-hour gusts rock us to sleep. This morning, as I write this, my tea is now cool enough to drink.
+
+<iframe src="https://open.spotify.com/embed/track/2D06uyWXjBkazzrsHFfBbD" width="500" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

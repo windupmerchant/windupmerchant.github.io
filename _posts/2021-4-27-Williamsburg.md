@@ -28,3 +28,5 @@ Only, I just wonder if this kind of tourism is purely self-indulgent, and not ne
 But now I am wondering: where does it all go? This kaleidoscope of encounters I've collected over the past month. What will it fertilize? What *must* it, to have been worthwhile? Or was it an accomplishment in itself, a necessary unfolding of eventualities; an unavoidable article in the long, deterministic parade of possibilities?
 
 Excuse me, it's time to empty the waste tanks.
+
+<iframe src="https://open.spotify.com/embed/track/0rUp2YnMdwkyt8Rt8XDELL" width="500" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

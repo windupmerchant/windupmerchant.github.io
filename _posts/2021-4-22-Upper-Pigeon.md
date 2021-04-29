@@ -56,3 +56,5 @@ When we came down, my ears stung like I'd been sunburnt and I was moved to apply
 As the sun approached the western ridges, a whole flock of amatuer photographers on field trip came out and took up all the space on the walk. Still, they were pleasant company and, besides, I was unable to look directly at the sunset because of its brightness and the directness of the wind. If you'd like to have a look at the sunset I saw, perhaps it's still available at [BearWoodsPhotography.com](http://BearWoodsPhotography.com)!
 
 We drove back in the dark, and I'll be damned if I didn't blow right past the campsite turnoff and right back onto Highway 32. Legend has it, we're still there to this day.
+
+<iframe src="https://open.spotify.com/embed/track/1RburbJjj7mWT0jochKvD5" width="500" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
