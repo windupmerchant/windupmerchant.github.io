@@ -21,4 +21,4 @@ We had a delicious dinner of New Haven pizza--margherita, and *clam*--and wine, 
 
 We played a few rounds of StarCraft ourselves with a friend. We played against three strangers and were handily defeated. I really didn't pull my own weight. Then we had to get offline to preserve bandwidth for Genna's Zoom presentation. I went to sleep at eight o'clock, and woke up twelve hours later.
 
-<iframe src="https://open.spotify.com/embed/track/4qLGyV5poY12SFiLXgFClL" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/4qLGyV5poY12SFiLXgFClL" width="50%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

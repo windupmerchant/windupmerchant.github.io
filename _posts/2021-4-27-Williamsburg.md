@@ -29,4 +29,4 @@ But now I am wondering: where does it all go? This kaleidoscope of encounters I'
 
 Excuse me, it's time to empty the waste tanks.
 
-<iframe src="https://open.spotify.com/embed/track/0rUp2YnMdwkyt8Rt8XDELL" width="500" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/0rUp2YnMdwkyt8Rt8XDELL" width="50%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

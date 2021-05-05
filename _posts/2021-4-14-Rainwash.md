@@ -31,4 +31,4 @@ I don't know what its limits are, but I think we'll just have to find out togeth
 
 Opportunities like a dry head, and un-burnt ears.
 
-<iframe src="https://open.spotify.com/embed/track/7oXP56aUNn7ofMyLhvPhEK" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/7oXP56aUNn7ofMyLhvPhEK" width="50%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

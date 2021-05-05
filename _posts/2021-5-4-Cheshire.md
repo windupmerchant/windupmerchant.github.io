@@ -43,4 +43,4 @@ To do so seems such a chore. Raincoat, rainpants, hiking boots, hat. And to go w
 
 Why are apes like us averse to rain? We're not made of tissue paper. We're really very waterproof. I should just go outside.
 
-<iframe src="https://open.spotify.com/embed/track/6cBJjtNNB6tLLR2hNTZPdB" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6cBJjtNNB6tLLR2hNTZPdB" width="50%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

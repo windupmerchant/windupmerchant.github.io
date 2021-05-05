@@ -15,4 +15,4 @@ The amenities were, historically, constructed by the CCC: the Civilian Conservat
 
 The drive out from Needles was largely uneventful. We finished listening to "The Worst Hard Time" and after a brief, unsatisfying dalliance with "Blues Traveler" I threw on some "Crosby, Stills & Nash" whose vocal harmonies are both exceedingly pleasant, and occupy a Hz band that's not interfered with by rushing wind and engine tones.
 
-<iframe src="https://open.spotify.com/embed/track/0AQquaENerGps8BQmbPw14" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/0AQquaENerGps8BQmbPw14" width="50%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

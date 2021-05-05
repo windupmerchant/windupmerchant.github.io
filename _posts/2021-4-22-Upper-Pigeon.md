@@ -57,4 +57,4 @@ As the sun approached the western ridges, a whole flock of amatuer photographers
 
 We drove back in the dark, and I'll be damned if I didn't blow right past the campsite turnoff and right back onto Highway 32. Legend has it, we're still there to this day.
 
-<iframe src="https://open.spotify.com/embed/track/1RburbJjj7mWT0jochKvD5" width="500" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1RburbJjj7mWT0jochKvD5" width="50%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

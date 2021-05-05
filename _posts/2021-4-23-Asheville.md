@@ -41,4 +41,4 @@ I don't know how to fit this into the post above, but it's worth mentioning that
 
 From Henry River Mill Village we made it, with daylight to spare, to our HipCamp site on a farm, next to someone's barn. We plugged into their electrical outlets and garden hose (we've got a water filter on our end), had the dregs of a bottle of California red, and set to making a wholesome dinner of quinoa, kale, and readymade curry.
 
-<iframe src="https://open.spotify.com/embed/track/6okgBrpsKHFhmUEN7bHAEr" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6okgBrpsKHFhmUEN7bHAEr" width="50%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

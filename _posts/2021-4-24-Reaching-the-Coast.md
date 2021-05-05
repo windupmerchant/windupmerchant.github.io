@@ -51,4 +51,4 @@ Still stuffed from the seafood lunch, we opted not to cook dinner. It was too la
 
 We shut the movie off soon enough, and let the storm's now forty-mile-an-hour gusts rock us to sleep. This morning, as I write this, my tea is now cool enough to drink.
 
-<iframe src="https://open.spotify.com/embed/track/2D06uyWXjBkazzrsHFfBbD" width="500" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/2D06uyWXjBkazzrsHFfBbD" width="50%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

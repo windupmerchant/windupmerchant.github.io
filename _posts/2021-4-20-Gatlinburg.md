@@ -39,4 +39,4 @@ After we perused the shops, and bought ourselves some iced coffee drinks from a 
 
 Dinner was a tomato sauce made from scratch with onions, broccoli, and kidney beans over our chosen starches: pasta for Sam, quinoa for me. After dinner I transformed the dinette into my bed, and read more pages of "A History of the American People."
 
-<iframe src="https://open.spotify.com/embed/track/3H88Mnt8OpEVKqtFK4VvLt" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3H88Mnt8OpEVKqtFK4VvLt" width="50%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

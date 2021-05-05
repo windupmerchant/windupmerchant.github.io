@@ -22,4 +22,4 @@ In the morning, we'd had a reunion of sorts in the mowed-lawn area at the front 
 In the evening, my hosts prepared a squash soup to which I contributed an onion from my larder. We ate, joked, and talked politics. While they discussed, at length, some novel particulars of domesticity, I washed up and, after dinner, we played a few rounds of a strategy computer game you might have heard of: Star Craft.
 
 
-<iframe src="https://open.spotify.com/embed/track/359krpyCKcFF8SFvqWES9L" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/359krpyCKcFF8SFvqWES9L" width="50%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

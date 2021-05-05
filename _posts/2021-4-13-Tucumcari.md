@@ -32,4 +32,4 @@ The lake was low. We could see a copse of trees out behind it that must've been 
 There weren't any hiking trails to speak of--not from sight, and there was no map we could find--but there were several ATV tracks, both up and down some kills and around the lake. I imagine that kind of recreation can be pleasant, but I won't pretend it doesn't irk me that folks feel a need to have a gas-engine do their nature-walking for them. As though the environs themselves aren't enough to occupy their nervous systems; they've got to engage in a little velocity-induced adrenaline, too, or else they derive no value from a National Grasslands. That disappoints me. Can't you engage in that kind of hooliganism anywhere else? You've got to allow for it at nature preserves? Doesn't seem right.
 
 
-<iframe src="https://open.spotify.com/embed/track/67QhF85lbRZkaiYcSTk12S" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/67QhF85lbRZkaiYcSTk12S" width="50%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
