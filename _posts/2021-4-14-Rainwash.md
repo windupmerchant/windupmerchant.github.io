@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rainwash
+title: Elk City, Oklahoma
 ---
 
 We've finally encountered a bit of humidity, here in the Chickasaw National Recreation Area outside of Sulphur, Oklahoma. We could feel it on our skin, when we turned south after Oklahoma City. The wind lessened, a bit, and we stopped gettinhg static shocks every time we moved. Lush, green, deciduous trees flooded the countryside where dry rock, sparse juniper, joshua trees, and tumbleweed had only just been, it seemed. They clustered around the banks of rivers where we'd only seen dry gullies in SouthEast California, Arizona, New Mexico, and Texas. Rivers with real water in them. Low, muddy, but unmistakeably wet!

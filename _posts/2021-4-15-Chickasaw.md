@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chickasaw
+title: Chickasaw, Oklahoma
 ---
 
 Perhaps on account of the rain we woke a little late, Wednesday, and got a later start than we'd intended. The plan was to catch a Lyft ride to the visitors center at the northern end of the park, and then hike back down to our site and strike camp. The night before, we'd thrown on the mobile data hotspot, and seen a few cars in our vicinity. Around here, there's not much distance between the town and the park. In fact, when we finally made our way to the top of Chickasaw National Recreation Area, we found it to be aptly named: while the southern end was left to trees, hunting wilds and hiking trails, the northern end was as tidily mowed and as built up as any urban park--and only across the street from the Donut Palace, and the rest of Sulphur, Oklahoma.

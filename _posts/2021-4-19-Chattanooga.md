@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chattanooga
+title: Chattanooga, Tennessee
 ---
 
 We're on the road, again. This is the second of today's three legs: from Chattanooga to Knoxville, home of the *Museum of Appalachia*. This morning we drove the first leg from Bagenstoss Farms to Chattanooga, in time to catch the horizontal incline train up to the top of Lookout Mountain. This evening, once the museum's closed, we'll finish our drive through Pigeon Forge to Gatlinburg, "gateway to the Smokies."

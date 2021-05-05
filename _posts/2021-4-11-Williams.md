@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grandness
+title: Williams, Arizona
 ---
 
 I may have to be brief, this morning, as I am suffering a bit from last night's rap session around the campfire turning into a bit of a bender, with Natural Ice beers readily supplied by the proprietor of the Little Oasis campground--an acre of dry scrubland marked out into plots by dotted lines of white stones, each adorned with twisting scupltures of dry branches and some with pergolas of the same material, and metal fire pits.

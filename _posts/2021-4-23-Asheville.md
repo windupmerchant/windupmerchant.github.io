@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Asheville
+title: Asheville, North Carolina
 ---
 
 Woke up in Cosby Campground for the last time. No cables to coil in, no hoses to unhook. We tossed our kitchen trash into the bear-proof steel bins, swung by the dump station, told Google GPS to fuck off, we would *not* be going down Highway 32, and plotted a course through the scenic Parkway to Asheville, North Carolina.

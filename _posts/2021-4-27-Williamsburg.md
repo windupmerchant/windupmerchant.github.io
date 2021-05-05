@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Williamsburg
+title: Williamsburg, Virginia
 ---
 
 Williamsburg is an estuary where commercial forces mix with history geek forces, producing a spiraling pocket of commodified geekery. Theirs is a unique blend of kitsch, and what do we call unique kitsch?

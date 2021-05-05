@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Boomerang
+title: Cheshire, Connecticut
 ---
 
 Woke up early enough to have another liesurely cup of coffee with Genna while my laundry ran in her basement two floors down. Her baby's due in thirty five days, and I've got a bottle of wine earmarked to drink when that baby arrives!

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Haven
+title: New Haven, Connecticut
 ---
 
 The "East Rock" Neighborhood of New Haven, Connecticut is a lovely place, even if they're unafraid to ask a guy who's parked his RV in front of their house if he's "moving in".

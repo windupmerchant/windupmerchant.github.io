@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cape Hatteras
+title: Cape Hatteras, North Carolina
 ---
 
 Woke to the chirps and squawks of an uncountable number of shore birds, this morning, and fell asleep to the same, that night. Terns, gulls, willets, and many more we couldn't find in our *Birds Of Tennessee* pamphlet since we were, most assuredly, camped out on the Eastern-most edge of the continent, North Carolina's Outer Banks.

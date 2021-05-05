@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reaching the Coast
+title: Plymouth, North Carolina
 ---
 
 We unscrewed ourselves from the spigot at the side of the barn, unplugged ourselves from their 15 amperes of electrical power. For some reason, all the spigots this side of the Mississippi are old well-style, with a great, red lever one must heave up or down to open the spout and not, as I am used to, a little four-armed knob that one can simply twist.

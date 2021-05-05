@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Tucumcari
+title: Tucumcari, New Mexico
 ---
 
 Woke up, this morning, on the shores of Lake McClellan. It was completely new sight, as we'd arrived in the dark. Getting in was harrowing, with long stretches of the I-40 under construction, traffic winnowed into one lane, or the other, in some insane cone-wrangled, miles-long semi-truck slalom. Finding an exit was a hair-raising exercise in patience and squinting.
 
 We'd blown straight through Amarillo. I was driving. It's a big town (or a little city) of 200k people. Something like two and a quarter SF Bay Peninsula cities.
 
-Lunch was an under-dressed salad parked in the lot of the only grocer in Tucumcari. That's a funny town, Tucumcari. Real, real run-down, it straddles a good bit of Route 66 and that's told by the funky motels and boarded-up tourist stops. I can only imagine that trundling down Route 66 at one's own speed must've once been a real scene, but now the interstate's blown all that up. There's no reason to stop in Tucumcari, anymore, except if you're deliberately avoiding Amarillo.
+Lunch was an under-dressed salad parked in the lot of the only grocer in Tucumcari. That's a funny town, Tucumcari. Real, real run-down, it straddles a good bit of Route 66 and that's told by the funky motels and boarded-up tourist stops. I can only imagine that trundling down Route 66 at one's own speed must've once been a real scene, but now the interstate's blown all that up. There's no reason to stop in Tucumcari, anymore, except if you're desperate to get your shoppingh done before you hit Amarillo.
 
 I am trying to remember the name of the Edo-period Japanese tourism-themed board game I bought two or three years back. Players assume the role of a pedestrian traveler going along the main road, and score points by purchasing sets of souvenirs, thriftily exploring local cuisine, and meeting colorful strangers on the road. I can't help but see the parallels in our current peregrinations, and I take some satisfaction in considering how well we're scoring. I can't help but think we'd have done better at the height of Route 66, or some such, but of course we couldn't then have done in a month what we're doing now.
 

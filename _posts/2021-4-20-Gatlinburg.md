@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gatlinburg
+title: Gatlinburg, Tennessee
 ---
 
 "Oh I've had the COVID. Been vaccinated, all that. I'm not saying it ain't bad. I know it's bad but, you know, those masks aren't doing us any favors, neither. They trap the carbon *dee-oxide,* and that harms your immune system, too."

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Mexico
+title: Santa Fe, New Mexico
 ---
 
 Settled down, last night, into a gravelly campsite with a finicky spigot but 30 clean amperes of electrical power. It was dark, so we couldn't see much, but Sam made us cocoa while I fiddled with the hookups and stabilizer jacks. I never could get the rig level, though, and the next morning we had to back out of that so-called pull-through site because, by morning's light, we could see that the gravel path out was steep and deeply furrowed. We might have damaged the underside of our rig.
